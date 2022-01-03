@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=90BEFE&height=250&section=header&text=SeongsuKim&fontSize=80&animation=fadeIn&fontAlignY=50)
 
+<br/>
 
 <span align="center">
   
@@ -10,7 +11,7 @@
   
   <br/>
   
-  <h4>👋</h4>
+  <h3>👋</h3>
   
   Hi there, I'm **back-end developer** who act efficiently.<br/>
   Today, I use **Node.js** with Typescript<br/>
@@ -19,7 +20,7 @@
 
   <br/>
   
-  <h4>🛠</h4>
+  <h3>🛠</h3>
 
   <p> Techs that I'm currently using. </p>
 
@@ -43,7 +44,7 @@
   
   <br/>
   
-  <h4>👣</h4>
+  <h3>👣</h3>
   
   <p>
     <a href="https://seongsu.me/" target="_blank"><img src="https://img.shields.io/badge/Blog-4A4F58?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
