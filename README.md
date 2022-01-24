@@ -29,7 +29,6 @@
     <img src="https://img.shields.io/badge/JavaScript-E9D317?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Node.js-77B22F?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
 <!--   </p>
   
   <p> -->
@@ -39,7 +38,6 @@
     <img src="https://img.shields.io/badge/Typeorm-262627?style=flat-square&logo=Typeform&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/AWS-FD8705?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>&nbsp
   </p>
   
   <br/>
