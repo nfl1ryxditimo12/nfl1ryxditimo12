@@ -6,8 +6,8 @@
   <h3>👋</h3>
   
   Hi there, I'm **back-end developer** who act efficiently.<br/>
-  Today, I use **Node.js** with Typescript<br/>
-  and, I'm studying at **42Seoul** with handsome colleagues.
+  These days, I work using **WebRTC**, **Kafka** and **Kubernetes**.<br/>
+  and, I'm working at <a href="https://goodganglabs.com">**GoodGang Labs**</a> with great colleagues.
   
 
   <br/>
@@ -17,23 +17,23 @@
   <p> Techs that I'm currently using. </p>
 
   <p>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/JavaScript-E9D317?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=Go&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
 <!--   </p>
   
   <p> -->
     <br/>
-    <img src="https://img.shields.io/badge/Express-4A4F58?style=flat-square&logo=Express&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJs&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/>&nbsp
     <br/>
     <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/>&nbsp
+    <br>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp
+<!--     <img src="https://img.shields.io/badge/Containerd-575757?style=flat-square&logo=Containerd&logoColor=white"/>&nbsp -->
+    <img src="https://img.shields.io/badge/Kubernetes-326Ce5?style=flat-square&logo=Kubernetes&logoColor=white"/>&nbsp
 
   </p>
   
