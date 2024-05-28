@@ -4,12 +4,10 @@
   <br/>
   
   <h3>👋</h3>
-  
-  Hi there, I'm **back-end developer** who act efficiently.<br/>
-  These days, I work using **WebRTC**, **Kafka** and **Kubernetes**.<br/>
-  and, I'm working at <a href="https://goodganglabs.com">**GoodGang Labs**</a> with great colleagues.
-  
 
+  Hi there, I'm a **Server engineer** who works efficiently.<br/>
+  These days, I'm working with **Go**, **Terraform**, and **Kubernetes**.<br/>
+  
   <br/>
   
   <h3>🛠</h3>
